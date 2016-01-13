@@ -2,7 +2,7 @@
 **Johns Hopkins University on Coursera**  
 **December 2015**
 
-My course project can be viewed in this folder.
+My course project and related files can be viewed in this folder.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
